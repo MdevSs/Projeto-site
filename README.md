@@ -1,2 +1,2 @@
 # Projeto-site
- Projeto de um sire criado duranteo curso de Git e GitHub
+ > Projeto de um _site_ criado durante o curso de **Git** e **GitHub**
